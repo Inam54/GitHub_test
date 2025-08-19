@@ -1,5 +1,7 @@
+git config --global user.email "your-email@example.com" (First add email in the directory)
+git config --global user.name "Your Name" (Then add name as an identifier)
 git status (To check the status of the folder)
 git init (To create a repo in a particular folder)
 git add file_1 and file_2 (Add the files to the stagging area)
 git commit -m "comment" (Sent those files to the repo)
-git logczxc --oneline (Used to check those comments added in commit)
+git log --oneline (Used to check those comments added in commit)
