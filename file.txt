@@ -14,4 +14,6 @@ git switch master
 git branch bug-fix
 git switch bug-fix
 git switch -c dark-mode
-git checkout orange-mode
+git checkout <branch_name>
+git branch -m <old-branch-name> <new-branch-name>
+git branch -d <branch-name>
