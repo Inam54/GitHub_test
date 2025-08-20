@@ -5,6 +5,7 @@ git init (To create a repo in a particular folder)
 git add file_1 and file_2 (Add the files to the stagging area)
 git commit -m "comment" (Sent those files to the repo)
 git log --oneline (Used to check those comments added in commit)
+touch <file_name> (It will create a new file in a folder)
 git show -s --pretty=raw <commit-hash>
 git ls-tree <tree-id>
 git show <blob-id>
