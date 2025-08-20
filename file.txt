@@ -27,3 +27,7 @@ git stash apply stash@{0}
 git stash apply stash@{0} <branch-name>
 git stash drop
 git stash clear
+git tag <tag-name>
+git tag -a <tag-name> -m "Release 1.0"
+git tag
+git tag <tag-name> <commit-hash>
