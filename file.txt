@@ -24,3 +24,6 @@ git stash
 git stash list
 git stash apply
 git stash apply stash@{0}
+git stash apply stash@{0} <branch-name>
+git stash drop
+git stash clear
