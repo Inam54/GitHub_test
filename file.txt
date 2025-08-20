@@ -16,3 +16,4 @@ git switch bug-fix
 git switch -c dark-mode
 git checkout orange-mode
 git branch orange-mode
+git merge bug-fix
