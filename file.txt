@@ -13,4 +13,21 @@ git branch
 git switch master
 git branch bug-fix
 git switch bug-fix
-git checkout orange-mode
+git switch -c dark-mode
+git checkout <branch_name>
+git branch -m <old-branch-name> <new-branch-name>
+git branch -d <branch-name>
+git diff --staged
+git diff branch-name-one..branch-name-two
+git diff <commit-hash-one>..<commit-hash-two>
+git stash
+git stash list
+git stash apply
+git stash apply stash@{0}
+git stash apply stash@{0} <branch-name>
+git stash drop
+git stash clear
+git tag <tag-name>
+git tag -a <tag-name> -m "Release 1.0"
+git tag
+git tag <tag-name> <commit-hash>
