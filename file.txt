@@ -13,3 +13,4 @@ git branch
 git switch master
 git branch bug-fix
 git switch bug-fix
+git checkout orange-mode
