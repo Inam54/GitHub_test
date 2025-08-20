@@ -18,6 +18,4 @@ git switch -c dark-mode
 git checkout <branch_name>
 git branch -m <old-branch-name> <new-branch-name>
 git branch -d <branch-name>
-=======
 git checkout orange-mode
->>>>>>> bug-fix
