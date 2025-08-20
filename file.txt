@@ -9,3 +9,9 @@ touch <file_name> (It will create a new file in a folder)
 git show -s --pretty=raw <commit-hash>
 git ls-tree <tree-id>
 git show <blob-id>
+git branch
+git switch master
+git branch bug-fix
+git switch bug-fix
+git switch -c dark-mode
+git checkout orange-mode
