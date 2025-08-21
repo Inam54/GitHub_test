@@ -35,3 +35,6 @@ git rebase main
 git reflog
 git reset --hard <commit-hash>
 git remote -v
+ssh-keygen -t ed25519 -C "your-email@chaicode.com"
+git push origin main
+git push -u origin main
