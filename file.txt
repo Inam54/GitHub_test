@@ -33,5 +33,4 @@ git tag
 git tag <tag-name> <commit-hash>
 git rebase main
 git reflog
-git reflog <commit-hash>
 git reset --hard <commit-hash>
