@@ -34,3 +34,4 @@ git tag <tag-name> <commit-hash>
 git rebase main
 git reflog
 git reset --hard <commit-hash>
+git remote -v
